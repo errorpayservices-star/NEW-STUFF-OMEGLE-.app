@@ -1,7 +1,7 @@
 /* =========================
    TELEGRAM CONFIG
 ========================= */
-const telegramUsername = "GetYourFoldersHere10_14";
+const telegramUsername = "MasterOfLeaksOmegle";
 
 /* =========================
    BUY NOW BUTTONS
